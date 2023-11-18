@@ -15,3 +15,5 @@ just a simple python script which helps studentz
 5. math
 6. rich.progress
 7. colorama
+# Demo
+https://github.com/somecoderithink/mathzapp/assets/87126175/fa40532c-d863-47bf-8cc8-3dbf4ae4f74c
